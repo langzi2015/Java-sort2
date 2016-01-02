@@ -1,4 +1,3 @@
-//二分法插入排序
 import java.util.Arrays;
 
 public class sort2 {
